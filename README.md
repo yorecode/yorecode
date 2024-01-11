@@ -28,19 +28,27 @@ Documentation writing and spewing of opinions.
 Author of the GnuCOBOL FAQ.  A COBOL reference, with many program examples of integrating GnuCOBOL
 with the myriad of other computing envvironments that the world places at our fingertips.
 
+https://gnucobol.sourceforge.io/faq/index.html
+
 ## C
 GnuCOBOL is written in C.  Most of the internet is written in C.
 
 ## V
 Feels smoother than C, with a much more modern take on developer's quality of life issues.
 
+https://vlang.io
+
 ## Icon, Unicon
 Power in the older compiler that is Icon, made more modern with the Unicon project.
+
+https://unicon.sourceforge.io/up/index.html
 
 ## Python
 Handy, and ubiquitous.
 
 Microcontrollers are now powerful enough to run Micropython.
+
+https://github.com/yorecode/RP2040PicoW
 
 ## Forth
 All programmers should know a little bit about Forth is only to highlight the fact that there are different
@@ -49,11 +57,18 @@ ways of thinking about problems and solutions.
 ## REBOL and Red
 All programmers should know about REBOL and Red.  A different way of thinking, wrapped in a jetpack.
 
+https://www.red-lang.org
+
 ## Arturo
 A newer compiler being developed with hints of REBOL, Nim, Flutter.
 
+- https://btiffin.users.sourceforge.net/ap/arturo.html
+- https://arturo-lang.io
+
 ## BASIC
-In paricular, BaCon, the BASIC Converter.
+In paricular, BaCon, the BASIC to C Converter.
+
+https://basic-converter.org
 
 ## Tcl/Tk
 Handy to know scripting environment, language and paradigm.
@@ -64,6 +79,7 @@ Handy to know scripting environment, language and paradigm.
 
 # Jokes
 ## Lame jokes are the best jokes
+
 What did Batman say to Robin, *just before they got in the car*?
 
 "Robin, get in the car."
