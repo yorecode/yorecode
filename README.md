@@ -3,7 +3,7 @@
 yorecode is a pseudonym, a pen name pun name.  Name is Brian, in Ottawa, Ontario, Canada.
 
 ## What
-Thia will be a collection of repositories covering the art, science and craft of Computer Programming
+This will be a collection of repositories covering the art, science and craft of Computer Programming
 with examples, along with details and commentary about various programming languages and Software
 Development environments.  All within thick layers of bias and unabashed favouritisms.
 
