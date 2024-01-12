@@ -2,6 +2,10 @@
 ## Who
 yorecode is a pseudonym, a pen name pun name.  Name is Brian, in Ottawa, Ontario, Canada.
 
+Member of the GNU project, co-maintainer of the GnuCOBOL compiler suite.  
+Member of the ISO working group committee for the COBOL 2022 Standard, with work on the next
+COBOL 202x Standard in progress.
+
 ## What
 This will be a collection of repositories covering the art, science and craft of Computer Programming
 with examples, along with details and commentary about various programming languages and Software
@@ -13,13 +17,14 @@ Most world views, ethics and morality that seep through here will be from an eng
 
 ## When
 Started programming in Z80 Assembler and TRS-80 Model I BASIC, back in the 1970s.  The study of programming
-and programming languages have been a hobby ever since.  Always on the lookout for new ones to explore.
+and programming languages have been a hobby ever since.  Always on the lookout for new ones to explore.  This
+collection of repositories started in 2024 and will continue to grow into the future.
 
 ## Why
 For the joy of it.
 
 ## How
-Documentation writing and spewing of opinions.
+Documentation writing, building repositories of demonstration code, and spewing of opinions.
 
 ----
 
@@ -34,7 +39,7 @@ https://gnucobol.sourceforge.io/faq/index.html
 GnuCOBOL is written in C.  Most of the internet is written in C.
 
 ## V
-Feels smoother than C, with a much more modern take on developer's quality of life issues.
+Feels smoother than C, with a much more modern take on developer quality of life issues.
 
 https://vlang.io
 
@@ -46,7 +51,7 @@ https://unicon.sourceforge.io/up/index.html
 ## Python
 Handy, and ubiquitous.
 
-Microcontrollers are now powerful enough to run Micropython.
+Microcontrollers are now powerful enough to run Micropython and Circuitpython.
 
 https://github.com/yorecode/RP2040PicoW
 
@@ -55,7 +60,7 @@ All programmers should know a little bit about Forth is only to highlight the fa
 ways of thinking about problems and solutions.
 
 ## REBOL and Red
-All programmers should know about REBOL and Red.  A different way of thinking, wrapped in a jetpack.
+All programmers should know about REBOL and Red.  A different way of thinking, strapped to a jetpack.
 
 https://www.red-lang.org
 
@@ -80,9 +85,13 @@ Handy to know scripting environment, language and paradigm.
 # Jokes
 ## Lame jokes are the best jokes
 
-What did Batman say to Robin, *just before they got in the car*?
-
+### Batman
+What did Batman say to Robin, *just before they got in the car*?  
 "Robin, get in the car."
+
+### Was
+What was was?  
+Before was was was was was is.
 
 ----
 
