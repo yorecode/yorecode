@@ -55,8 +55,13 @@ Microcontrollers are now powerful enough to run Micropython and Circuitpython.
 
 https://github.com/yorecode/RP2040PicoW
 
+## Hopper
+A C flavoured programming language and Virtual Machine for microcontrollers.  Very promising.
+
+https://github.com/sillycowvalley/Hopper
+
 ## Forth
-All programmers should know a little bit about Forth is only to highlight the fact that there are different
+All programmers should know a little bit about Forth if only to highlight the fact that there are different
 ways of thinking about problems and solutions.
 
 ## REBOL and Red
@@ -92,6 +97,13 @@ What did Batman say to Robin, *just before they got in the car*?
 ### Was
 What was was?  
 Before was was was was was is.
+
+### In bulk
+Why does no one like the number 288?
+It's two gross.
+
+### Negative numbers
+A Neganumerophobic will stop at nothing to avoid negative numbers.
 
 ----
 
